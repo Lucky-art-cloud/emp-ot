@@ -1,4 +1,5 @@
 # emp-ot 
+按个昂达嘎嘎
 ![arm](https://github.com/emp-toolkit/emp-ot/workflows/arm/badge.svg)
 ![x86](https://github.com/emp-toolkit/emp-ot/workflows/x86/badge.svg)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/emp-toolkit/emp-ot.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/emp-toolkit/emp-ot/alerts/)
